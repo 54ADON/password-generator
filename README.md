@@ -18,8 +18,5 @@ This project is a simple web-based Random Password Generator. It allows users to
 3. Click the "Generate Password" button to generate a new password.
 4. Click the copy icon to copy the generated password to your clipboard.
 
-## Installation
-
-To use this project, simply clone the repository and open the `index.html` file in your web browser.
 
 
